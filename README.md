@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @temple69
 - 👀 I’m interested in Programming and Problem solving
-- 🌱 I’m currently learning Fullstack development with mern stack
+- 🌱 I’m currently learning TypeScript and Next.js
 - 💞️ I’m looking to collaborate on Projects and Startups
 - 📫 How to reach me  
 -  Whatsapp:07012489287  
