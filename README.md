@@ -8,7 +8,7 @@ I am the best fit for Companies and organizations that wants to build scalable,S
 
 *   🌍  I'm based in Lagos
 *   ✉️  You can contact me at [utemple169@gmail.com](mailto:utemple169@gmail.com)
-*   🤝  I'm open to collaborating on Projects, Startups, Organizations and Companies
+*   🤝  I'm open to Working With Projects, Startups, Organizations and Companies
 *   ⚡  When am not coding I watch Anime and Chitchat With Friends
 
 <a href="https://www.twitter.com/temple_snowden" target="_blank" rel="noreferrer"><img
