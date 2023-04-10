@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ----------------------
 ### Brief Summary About Me
-Coding and Dreaming on React.js. With Three years of Experience in Frontend Web Development and a strong understanding and proficiency in TypeScript,JavaScript,Next.js and React.js. I am the best fit for Companies and organizations that wants to build scalable, high-efficient and performance optimized websites with fast page loads serving 10000+ users with React and Modern Technologies.
+I am the best fit for Companies and organizations that wants to build scalable,SEO and performance optimized websites with fast page loads serving 10000+ users with React and Modern Technologies.
 
 *   🌍  I'm based in Lagos
 *   ✉️  You can contact me at [utemple169@gmail.com](mailto:utemple169@gmail.com)
-*   🧠  I'm learning Nextjs and TypeScript
 *   🤝  I'm open to collaborating on Projects, Startups, Organizations and Companies
 *   ⚡  When am not coding I watch Anime and Chitchat With Friends
 
