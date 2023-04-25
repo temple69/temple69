@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ----------------------
 ### Brief Summary About Me
-I am the best fit for Companies and organizations that wants to build scalable,SEO and performance optimized websites with fast page loads serving 10000+ users with React and Modern Technologies.
+Frontend developer with a talent for creating unique and engaging website experiences that are visually appealing, SEO optimized, responsive, Cross Browser Compatibility and easy to navigate.
 
 *   🌍  I'm based in Lagos
 *   ✉️  You can contact me at [utemple169@gmail.com](mailto:utemple169@gmail.com)
