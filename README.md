@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ----------------------
 ### Brief Summary About Me
-Frontend developer with a talent for creating unique and engaging website experiences that are visually appealing, SEO optimized, responsive, Cross Browser Compatibility and easy to navigate.
+Frontend Developer Building Solutions and solving problems for university students. Proficient in Angular, React, Next, typescript and Jvascript.I also create unique and engaging website experiences that are visually appealing, SEO optimized, responsive, Cross Browser Compatibility and easy to navigate.
 
 *   🌍  I'm based in Lagos
 *   ✉️  You can contact me at [utemple169@gmail.com](mailto:utemple169@gmail.com)
